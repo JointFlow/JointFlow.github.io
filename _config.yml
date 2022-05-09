@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+title: JointFlow
+description: DFN Generator - open source project page
+show_downloads: ["true"]
+github:
+  zip_url: https://github.com/JointFlow/DFNGenerator/archive/refs/heads/main.zip
