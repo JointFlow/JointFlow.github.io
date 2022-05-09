@@ -6,5 +6,8 @@ Currently, if natural fractures are modelled at all, they are modelled stochasti
 
 To improve this and generate more accurate fracture models, we have developed a technique for simulating the growth of large fracture networks based on fundamental geomechanical principles. This forward modelling technique, analogous to new sedimentological forward modelling techniques, allows more accurate and realistic fracture models to be generated more quickly, often with very limited input data. They can be easily integrated into fluid flow and geomechanical models. This method also allows for more rapid uncertainty modelling.
 
+![dfn1](images/dfn1.png)
 
 The DFN Generator software is available to download for free under the Apache 2 open source license. It is available in 2 versions: a stand-alone version with text file input and output, and as a plugin for the Schlumberger Petrel ™ geomodelling package. To download installers and instructions for either version please go to the [Downloads](download) tab.
+
+[Conceptual model](concept)
