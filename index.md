@@ -16,14 +16,14 @@ The DFN Generator software is available to download for free under the Apache 2 
 
 
 # Access our open-source software
-|Platform| Version|
-|---|---|
-|Petrel (.pip)|Petrel 2020|
-||Petrel 2018|
-||Petrel 2017|
-||Petrel 2016|
-|Standalone|v.1|
-||v.1.1|
+| Platform | Version |
+| :--- | :--- |
+| Petrel (.pip) | Petrel 2020 |
+| | Petrel 2018 |
+| | Petrel 2017 |
+| | Petrel 2016 |
+| Standalone | v.1 |
+| | v.1.1 |
 
 # Online documentation and videos
 Instructions for installing to Petrel
