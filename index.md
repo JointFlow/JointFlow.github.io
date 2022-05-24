@@ -5,25 +5,24 @@ However they generally cannot be imaged and mapped directly – geophysical meth
 
 Currently, if natural fractures are modelled at all, they are modelled stochastically – placed at random locations with arbitrary geometry. The resulting models are typically inaccurate and give poor results when used in geomechanical and fluid flow models
 # Introducing connected DFNs (cDFN)
-To improve this and generate more accurate fracture models, we have developed a technique for simulating the growth of large fracture networks based on fundamental geomechanical principles. This forward modelling technique, analogous to new sedimentological forward modelling techniques, allows more accurate and realistic fracture models to be generated more quickly, often with very limited input data. They can be easily integrated into fluid flow and geomechanical models. This method also allows for more rapid uncertainty modelling.
+To improve this and generate more accurate fracture models, we have developed a technique for simulating the growth of large fracture networks based on fundamental geomechanical principles. This forward modelling technique, analogous to new sedimentological forward modelling techniques, allows more accurate and realistic fracture models to be generated more quickly, even in cases with limited input data. They can be easily integrated into fluid flow and geomechanical models. This method also allows for more rapid uncertainty modelling.
 
 ![dfn1](images/dfn1.png)
 
-The DFN Generator software is available to download for free under the Apache 2 open source license. It is available in 2 versions: a stand-alone version with text file input and output, and as a plugin for the Schlumberger Petrel ™ geomodelling package. To download installers and instructions for either version please go to the [Downloads](download) tab.
-
-[Conceptual model](concept)
+The DFN Generator software is available to download for free under the Apache 2 open source license. It is available in 2 versions: a stand-alone version with text file input and output, and as a plugin for the Schlumberger Petrel ™ geomodelling package.
 
 
-
-# Access our open-source software
+# Download the open-source software
 | Platform | Version |
-| :--- | :--- |
+| -------- | ------- |
 | Petrel (.pip) | Petrel 2020 |
-| | Petrel 2018 |
-| | Petrel 2017 |
-| | Petrel 2016 |
-| Standalone | v.1 |
-| | v.1.1 |
+|          | Petrel 2018 |
+|          | Petrel 2017 |
+|          | Petrel 2016 |
+| Standalone | v.1     |
+|          | v.1.1     |
+![interface](images/dfngen_interface.png)
+Image of the DFN Generator plug-in for Petrel.
 
 # Online documentation and videos
 Instructions for installing to Petrel
@@ -31,7 +30,14 @@ Documentation for using the Petrel plug-in
 Documentation for using the standalone version
 # Access our knowledge
 
-- [About us & ongoing research](aboutus)
+- [Contact us & ongoing research](aboutus)
 - [Online fracture resources](onlinelearning)
-- [Case studies using cDFNs](casestudies)
+- [Case studies using cDFNs](concept)
 - [Bespoke training](training)
+- [More technical information & conseptual model](concept)
+
+# Cite the literature
+Below are a few citations of publications on the code so far, if you use the code, we would greatly appreciate if you could include us in your reference list. :+1:
+- Welch, M.J., Lüthje, M., Oldfield, S.J. 2022. DFN Generator v2.0: A new tool to model the growth of large-scale natural fracture networks usi, doi: https://doi.org/10.5194/gmd-2022-22
+- Welch, M.J., Lüthje, M., Oldfield, S.J. 2000. Modelling the Evolution of Natural Fracture Networks. Springer Nature Switzerland AG., https://doi.org/10.1007/978-3-030-52414-2. 
+- Welch, M.J., Lüthje, M., Glad, A.C. 2019. Influence of fracture nucleation and propagation rates on fracture geometry: Insights from geomechanical modelling. Petroleum Geoscience, 25, 470-489, https://doi.org/10.1144/petgeo2018-161
