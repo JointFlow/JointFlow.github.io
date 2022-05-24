@@ -21,7 +21,9 @@ The DFN Generator software is available to download for free under the Apache 2 
 |          | Petrel 2016 |
 | Standalone | v.1     |
 |          | v.1.1     |
+
 ![interface](images/dfngen_interface.png)
+
 Image of the DFN Generator plug-in for Petrel.
 
 # Online documentation and videos
@@ -29,12 +31,10 @@ Instructions for installing to Petrel
 Documentation for using the Petrel plug-in
 Documentation for using the standalone version
 # Access our knowledge
-
-- [Contact us & ongoing research](aboutus)
 - [Online fracture resources](onlinelearning)
-- [Case studies using cDFNs](concept)
+- [Technical information & case studies](concept)
 - [Bespoke training](training)
-- [More technical information & conseptual model](concept)
+- [Contact us & ongoing research](aboutus)
 
 # Cite the literature
 Below are a few citations of publications on the code so far, if you use the code, we would greatly appreciate if you could include us in your reference list. :+1:
