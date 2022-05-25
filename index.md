@@ -31,10 +31,9 @@ Instructions for installing to Petrel
 Documentation for using the Petrel plug-in
 Documentation for using the standalone version
 # Access our knowledge
-- [Online fracture resources](onlinelearning)
+- [Online fracture resources](understanding)
 - [Technical information & case studies](concept)
-- [Bespoke training](training)
-- [Contact us & ongoing research](aboutus)
+- [Contact us for bespoke training & more information](aboutus)
 
 # Cite the literature
 Below are a few citations of publications on the code so far, if you use the code, we would greatly appreciate if you could include us in your reference list. :+1:
