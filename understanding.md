@@ -3,6 +3,7 @@
 # Past presentations
 
 # DFN tool comparison
+
 | Current DFN tools | DOTC DFN tool |
 |---|---|
 | Accuracy: Since they are calibrated against limited and incomplete (1D) data, conventional tools often generate geologically unrealistic fracture models, and at best there will be a high level of uncertainty in the results. | Accuracy: Since it simulates the physical processes of fracture nucleation and propagation, the model output will automatically honour the geology, geomechanical properties and structural evolution of the reservoir. The detail of the output will reflect the detail of the input data, but even using basic input data the outputs will be geologically consistent. |
